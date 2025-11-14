@@ -921,7 +921,7 @@ ul {
     left: 2px;
     font-size: 8px;
 }
-.toggle-checkbox:checked+.toggle-switch::before{
+.profile-page  .toggle-checkbox:checked+.toggle-switch::before{
    left: 62px;
 }
 /* End Info Box */
